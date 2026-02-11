@@ -34,8 +34,18 @@ include_directories(
 )
 
 file(GLOB sources
-    *.cpp
-    *.h
+    src/cell.h
+    src/cell.cpp
+    src/common.h
+    src/formula.h
+    src/formula.cpp
+    src/FormulaAST.h
+    src/FormulaAST.cpp
+    src/main.cpp
+    src/sheet.h
+    src/sheet.cpp
+    src/structures.cpp
+    src/test_runner_p.h
 )
 
 add_executable(
