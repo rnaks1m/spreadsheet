@@ -27,5 +27,6 @@
 wget https://www.antlr.org/download/antlr-4.13.2-complete.jar
 ```
 Инструкцию по установке ANTLR можно найти на сайте [antlr.org](https://www.antlr.org/).
+После загрузки переместите файл `antlr-4.13.2-complete.jar` в корень проекта.
 
 2. **ANTLR C++ runtime**
