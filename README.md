@@ -31,3 +31,5 @@ wget https://www.antlr.org/download/antlr-4.13.2-complete.jar
 После загрузки переместите файл `antlr-4.13.2-complete.jar` в корень проекта.
 
 2. **ANTLR C++ runtime**
+Скачайте исходные коды:
+https://www.antlr.org/download/antlr4-cpp-runtime-4.13.2-source.zip
