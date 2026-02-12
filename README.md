@@ -65,3 +65,5 @@ mkdir build
 cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release   # или Debug
 ```
+**Для Windows (MSVC):**
+При необходимости укажите генератор, например:
