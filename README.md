@@ -72,3 +72,14 @@ cmake .. -DCMAKE_BUILD_TYPE=Release   # или Debug
 cmake .. -G "Visual Studio 17 2022" -A x64
 ```
 Если **ANTLR JAR**-файл находится не в корне, укажите путь явно:
+```
+cmake .. -DANTLR_EXECUTABLE=/путь/к/antlr-4.13.2-complete.jar
+```
+### 2. Компиляция
+```
+cmake --build .
+```
+После успешной сборки в папке `build` появится исполняемый файл:
+- **Linux / macOS:** `spreadsheet`
+- **Windows:** `spreadsheet.exe`
+## Запуск
