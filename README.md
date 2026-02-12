@@ -66,4 +66,9 @@ cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release   # или Debug
 ```
 **Для Windows (MSVC):**
+
 При необходимости укажите генератор, например:
+```
+cmake .. -G "Visual Studio 17 2022" -A x64
+```
+Если **ANTLR JAR**-файл находится не в корне, укажите путь явно:
