@@ -83,3 +83,16 @@ cmake --build .
 - **Linux / macOS:** `spreadsheet`
 - **Windows:** `spreadsheet.exe`
 ## Запуск
+В текущей реализации `main.cpp` содержит **только модульные тесты**. Запустите программу:
+```
+./spreadsheet   # или spreadsheet.exe
+```
+При успешном прохождении всех тестов вы увидите:
+```
+TestEmpty OK
+TestInvalidPosition OK
+TestSetCellPlainText OK
+TestClearCell OK
+TestPrint OK
+```
+Все тесты должны завершаться без ошибок.
