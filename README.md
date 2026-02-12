@@ -2,7 +2,7 @@
 Проект представляет собой реализацию электронной таблицы на C++ с поддержкой формул, ссылок на ячейки, отслеживания зависимостей и автоматической инвалидации кэша.
 Логика работы аналогична Excel или Google Sheets.
 
-![C++](https://img.shields.io/badge/C++%2017/20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++%2017-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Требования для сборки
 
