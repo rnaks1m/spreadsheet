@@ -32,4 +32,22 @@ wget https://www.antlr.org/download/antlr-4.13.2-complete.jar
 
 2. **ANTLR C++ runtime**
 Скачайте исходные коды:
+
 https://www.antlr.org/download/antlr4-cpp-runtime-4.13.2-source.zip
+
+Распакуйте содержимое в папку `antlr4_runtime/` внутри проекта.
+
+После распаковки структура должна выглядеть так:
+
+```
+spreadsheet/
+├── CMakeLists.txt
+├── FindANTLR.cmake
+├── Formula.g4
+├── antlr-4.13.2-complete.jar
+├── antlr4_runtime/
+│   ├── CMakeLists.txt
+│   └── runtime/
+│       └── src/ ...
+└── ...
+```
