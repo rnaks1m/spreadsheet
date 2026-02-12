@@ -5,6 +5,9 @@
 ![C++](https://img.shields.io/badge/C++%2017-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![ANTLR4](https://img.shields.io/badge/ANTLR4-C22D2D?style=for-the-badge)
+![STL](https://img.shields.io/badge/STL-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-Trees%20&%20Graphs-D35400?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Требования для сборки
 
