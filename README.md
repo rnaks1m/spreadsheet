@@ -2,15 +2,16 @@
 Проект представляет собой реализацию электронной таблицы на C++ с поддержкой формул, ссылок на ячейки, отслеживания зависимостей и автоматической инвалидации кэша.
 Логика работы аналогична Excel или Google Sheets.
 
-### 🛠 Стек технологий проекта
+### 🛠 Project Tech Stack
 
-| Компонент | Технологии и инструменты |
+| Component | Technologies & Tools |
 | :--- | :--- |
-| **Язык & Стандарт** | ![C++17](https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Сборка & Контроль** | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| **Парсинг (ANTLR4)** | ![ANTLR](https://img.shields.io/badge/ANTLR-4.13.2-C22D2D?style=for-the-badge) ![Java](https://img.shields.io/badge/Java_JRE-Required-007396?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Библиотеки** | ![STL](https://img.shields.io/badge/STL-Standard-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![ANTLR Runtime](https://img.shields.io/badge/ANTLR4-Runtime_C++-C22D2D?style=for-the-badge) |
-| **QA & Errors** | ![Tests](https://img.shields.io/badge/Tests-Custom_Framework-success?style=for-the-badge) ![Exceptions](https://img.shields.io/badge/Custom-Exceptions-red?style=for-the-badge) |
+| **Language & Standard** | ![C++17](https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Build System** | ![CMake](https://img.shields.io/badge/CMake-%E2%89%A5_3.8-064F8C?style=for-the-badge&logo=cmake&logoColor=white) |
+| **Parser Generation** | ![ANTLR 4.13.2](https://img.shields.io/badge/ANTLR-4.13.2-C22D2D?style=for-the-badge) ![Java JRE](https://img.shields.io/badge/JRE-Required-007396?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Libraries** | ![STL](https://img.shields.io/badge/Standard_Library-STL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![ANTLR Runtime](https://img.shields.io/badge/ANTLR4-Runtime_C++-C22D2D?style=for-the-badge) |
+| **Testing & QA** | ![Tests](https://img.shields.io/badge/Tests-Custom_Framework-success?style=for-the-badge) ![Exceptions](https://img.shields.io/badge/Error_Handling-Custom_Exceptions-red?style=for-the-badge) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ## Требования для сборки
 
