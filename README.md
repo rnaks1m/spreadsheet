@@ -2,12 +2,15 @@
 Проект представляет собой реализацию электронной таблицы на C++ с поддержкой формул, ссылок на ячейки, отслеживания зависимостей и автоматической инвалидации кэша.
 Логика работы аналогична Excel или Google Sheets.
 
-![C++](https://img.shields.io/badge/C++%2017-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![ANTLR4](https://img.shields.io/badge/ANTLR4-C22D2D?style=for-the-badge)
-![STL](https://img.shields.io/badge/STL-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-Trees%20&%20Graphs-D35400?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠 Стек технологий проекта
+
+| Компонент | Технологии и инструменты |
+| :--- | :--- |
+| **Язык & Стандарт** | ![C++17](https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Сборка & Контроль** | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Парсинг (ANTLR4)** | ![ANTLR](https://img.shields.io/badge/ANTLR-4.13.2-C22D2D?style=for-the-badge) ![Java](https://img.shields.io/badge/Java_JRE-Required-007396?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Библиотеки** | ![STL](https://img.shields.io/badge/STL-Standard-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![ANTLR Runtime](https://img.shields.io/badge/ANTLR4-Runtime_C++-C22D2D?style=for-the-badge) |
+| **QA & Errors** | ![Tests](https://img.shields.io/badge/Tests-Custom_Framework-success?style=for-the-badge) ![Exceptions](https://img.shields.io/badge/Custom-Exceptions-red?style=for-the-badge) |
 
 ## Требования для сборки
 
